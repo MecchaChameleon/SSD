@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="assets/videos/demo.mp4">▶ 데모 영상</a> ·
+  <a href="#데모-영상">▶ 데모 영상</a> ·
   <a href="#주요-기능">주요 기능</a> ·
   <a href="#시스템-구조">시스템 구조</a> ·
   <a href="docs/README.md">상세 문서</a> ·
@@ -30,9 +30,13 @@
 
 ## 데모 영상
 
-**[▶ 제주 로컬타임 AI 데모 영상 보기](assets/videos/demo.mp4)**
+<p align="center">
+  <a href="assets/videos/demo.mp4">
+    <img src="assets/videos/demo.gif" alt="제주 로컬타임 AI 서비스 시연" width="360" />
+  </a>
+</p>
 
-약 **1분 4초** 분량의 MP4 영상입니다. 위 링크에서 영상 파일을 열거나 내려받을 수 있습니다.
+약 **1분 4초**의 전체 시연을 GIF로 반복 재생합니다. **[▶ 원본 MP4 영상 보기](assets/videos/demo.mp4)**에서 음성이 포함된 영상을 열거나 내려받을 수 있습니다.
 
 ## 주요 기능
 
@@ -130,7 +134,7 @@ SSD/
 ├── index.html                 # 기존 개인정보처리방침
 ├── assets/
 │   ├── images/                # 서비스 로고와 아이콘
-│   └── videos/demo.mp4         # 데모 영상
+│   └── videos/                # 데모 GIF와 원본 MP4
 └── docs/
     ├── README.md              # 문서 모음
     ├── architecture.md        # 시스템 구조

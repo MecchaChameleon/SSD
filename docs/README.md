@@ -37,7 +37,7 @@
 ## 자료 추가
 
 - 발표자료와 서비스 소개서: 이 폴더에 PDF 등으로 추가하고 위 목록에 링크합니다.
-- 데모 영상: `assets/videos/demo.mp4`를 교체하면 대표 README의 영상 링크도 같은 파일을 가리킵니다.
+- 데모 영상: README는 `assets/videos/demo.gif`를 바로 표시하고, `assets/videos/demo.mp4`를 원본 영상으로 연결합니다. 영상을 교체할 때는 GIF와 MP4를 함께 갱신합니다.
 - 화면 이미지: `assets/images/`에 추가하고 README에서 상대경로로 참조합니다.
 
 저장소 관리자는 [privacy → SSD 전환 안내](repository-setup.md)를 참고하세요.
